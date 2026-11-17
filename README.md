@@ -29,6 +29,7 @@ robust enough for a product.
 - 📄 [Master's thesis: multifractal analysis of MEG brain oscillations](https://github.com/sbendimerad/mfa-internship/blob/main/report/Bendimerad_2025_MSc_thesis_multifractal_MEG.pdf)
 - 📘 [fMRI analysis with Nilearn](https://sbendimerad.github.io/fmri-firstsecondlevel-glm-nilearn-book/) · [Multifractal analysis with pymultifracs](https://sbendimerad.github.io/pymultifracs-book/)
 - ✍️ [Articles on Towards Data Science](https://towardsdatascience.com/author/sabrine.bendimerad1/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sabrine-bendimerad-43570b107/) · 📝 [Medium](https://medium.com/@sabrine.bendimerad1)
 
 Google Women Techmakers Ambassador · President of Descodeuses · Arabic, French, English
 Reach me on [LinkedIn](https://www.linkedin.com/in/sabrine-bendimerad-43570b107/) for training, talks, or an AI project that needs to leave the lab.
