@@ -3,19 +3,19 @@
 Machine learning engineer and researcher. I work in the gap between R&D and production:
 taking models out of the notebook and making them run in the real world.
 
-Engineer in applied mathematics, 10 years in innovation and R&D
-teams (energy, water networks, AI startups), and a patent on leak prediction.
-Today I'm a research engineer in health AI, building pipelines for multimodal brain
-imaging (MEG, fMRI, structural MRI): rigorous enough for research, robust enough for a product.
+Applied mathematics engineer, 10 years taking ML to production (EDF, where
+I was tech lead; SAUR), and a patent on leak prediction. Today I'm a research engineer at CEA,
+working on multimodal brain imaging (MEG, fMRI, structural MRI): rigorous enough for research,
+robust enough for a product.
 
 **Shipped to production**
-- Power plant classification on the Iberian electricity market: started as the EDF Group
+- Power plant classification (EDF) on the Iberian electricity market: started as the EDF Group
   Data Science Challenge (🏆 2nd prize out of 63 teams), then put into production
-- AIOps: anomaly detection on servers (Isolation Forest, autoencoders) and CPU overload
-  forecasting (Prophet, LSTM)
-- Leak prediction for water networks from satellite and geographic data: industrialised and patented
-- Web tracking data pipeline: migration from Comscore to Google Analytics,
-  BigQuery to Hadoop/Hive, industrialised
+- AIOps (EDF): anomaly detection on servers (Isolation Forest, autoencoders) and CPU overload
+  forecasting (Prophet, LSTM); I led the design and deployment
+- Leak prediction for water networks (SAUR) from satellite and geographic data: industrialised and patented
+- Web tracking data pipeline (EDF): migration from Comscore to Google Analytics,
+  migrated to Google Cloud, industrialised
 
 **What I work on now**
 - **Signals & brain imaging**: multifractal analysis of MEG, GPU multivariate VMD in PyTorch, fMRI connectivity
