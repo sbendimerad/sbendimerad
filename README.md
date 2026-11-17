@@ -13,12 +13,12 @@ robust enough for a product.
   Data Science Challenge (🏆 2nd prize out of 63 teams), then put into production
 - AIOps (EDF): anomaly detection on servers (Isolation Forest, autoencoders) and CPU overload
   forecasting (Prophet, LSTM); I led the design and deployment
-- Leak prediction for water networks (SAUR) from satellite and geographic data: industrialised and patented
+- Leak prediction for water networks (SAUR) from geospatial and satellite data: industrialised and patented
 - Web tracking data pipeline (EDF): migration from Comscore to Google Analytics,
   migrated to Google Cloud, industrialised
 
 **What I work on now**
-- **Signals & brain imaging**: multifractal analysis of MEG, GPU multivariate VMD in PyTorch, fMRI connectivity
+- **Signals & brain imaging**: multifractal analysis of MEG, [GPU multivariate VMD in PyTorch](https://github.com/sbendimerad/mvmd-torch), fMRI connectivity
 - **MLOps**: Docker, MLflow, FastAPI, cloud deployment
 - **Teaching**: 500+ people trained; free courses in Python, Math for AI and Machine Learning
 - **Writing**: Towards Data Science, on ML in production, responsible AI and AI for health
